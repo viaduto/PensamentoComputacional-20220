@@ -1,1 +1,0 @@
-# PensamentoComputacional-20220
